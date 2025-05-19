@@ -1,30 +1,44 @@
-# Software Engineering Project: Spots
+# 📌 Overview
+Spots is a responsive front-end web project that mimics the layout of a social media application. It focuses on delivering a seamless user experience through intuitive design, interactive features, and clean functionality using core web technologies.
 
-### Overview
+## 🚀 Project Objectives
+1. Build a fully responsive web layout with HTML & CSS.
 
--   Intro
--   Languages & Techniques
--   Links
+2. Implement interactive features using JavaScript.
 
-## **Intro**
+3. Integrate basic APIs to simulate server-side interaction.
 
-This project is a social media app layout called Spots. The main goal of this project is applying a responsive design to the webpage with HTML & CSS, as well having functional buttons and forms with their intended use through the application of functions from Javascript. The project also has basic applications of APIs, interacting with the server-side of things to retain information on the app!
+4. Practice team collaboration via Figma and modern tooling.
 
-## **Languages & Techniques**
+## 🛠 Technologies & Tools
+- Languages: HTML, CSS, JavaScript
 
-This project is done with HTML, CSS, JavaScript as well as a collaboration through Figma. The project also utilizes NPM and the libraries being used are PostCSS, Webpack, and Babel.
+- Version Control: Git & GitHub
 
-Techniques applied includes:
+- Package Manager: NPM
 
--   Responsive Design
--   Smooth Transitions
--   Submitted Forms
--   Form Validations
--   UX Improvements
--   API Applications
+- Build Tools: Webpack, Babel
 
-## **Links**
+- Styling Tools: PostCSS
 
--   [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
+- Design Collaboration: Figma
 
--   [Click here to open the website!](https://reondaze-a.github.io/spots_project/)
+
+## Key Features & Techniques
+- 📱 Responsive Design – Optimized layout for desktop, tablet, and mobile.
+
+- 🎨 Smooth Transitions – Enhanced user experience with subtle animations.
+
+- 📝 Interactive Forms – Input fields and buttons with real-time feedback.
+
+- ✅ Form Validation – Input error checking for cleaner data handling.
+
+- 🔁 API Integration – Simulated backend communication.
+
+- 🧠 UX Improvements – Focused on usability, clarity, and flow.
+
+## 🔗 Project Links
+
+🎨 [View the Figma Design](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
+
+🌐 [Visit the Live Website](https://reondaze-a.github.io/spots_project/)
